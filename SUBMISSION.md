@@ -4,7 +4,7 @@
 
 * Name: Raksha Nayak
 * Email: rakshanayak40@gmail.com
-* GitHub: 
+* GitHub: https://github.com/Rakshanayak24/product-engineer-ps
 * Selected problem: **Problem 2 — Webhook Retry Engine**
 * Demo video: 
 
@@ -72,4 +72,12 @@ OpenAI Codex was used to help implement, review, and test this submission. I rev
 
 ## Credibility note
 
-**Replace this section with your own truthful experience before submitting.** Do not invent project, scale, or attribution details. Include the system’s problem, your direct contribution, operational scale/complexity, one difficult decision, and a public link or anonymized evidence where available.
+I helped build Store Provisioning Platform, a Kubernetes-based backend platform designed to automate and simplify the provisioning and management of stores and their services.
+
+My personal contribution included backend APIs, service integration, Kubernetes-based provisioning, and CI/CD automation. I was mainly responsible for implementing the backend functionality and deployment workflow.
+
+The project involved multiple services, API integrations, containerized workloads, Kubernetes deployments, and automated CI/CD workflows.
+
+One challenging decision was using Kubernetes for managing the store services instead of handling deployments manually. I chose this approach because it makes the system easier to automate, manage, and scale, although it adds some infrastructure complexity.
+
+Evidence: GitHub repository — https://github.com/Rakshanayak24/Store-provisioning-platform
