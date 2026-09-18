@@ -1,0 +1,12 @@
+{
+  "name": "durable-webhook-engine",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "demo:receiver": "node demo/receiver.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" }
+}
